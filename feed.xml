@@ -3,7 +3,7 @@
     <title>GetShredGo</title>
     <link href="https://getshredgo.net/feed.xml" rel="self" />
     <link href="https://getshredgo.net" />
-    <updated>2022-10-28T15:43:15+05:30</updated>
+    <updated>2022-10-28T15:44:45+05:30</updated>
     <author>
         <name>Rish</name>
     </author>
@@ -383,8 +383,9 @@
         </author>
         <link href="https://getshredgo.net/ideal-weight-calculator/"/>
         <id>https://getshredgo.net/ideal-weight-calculator/</id>
+            <category term="Tools"/>
 
-        <updated>2022-10-28T15:43:04+05:30</updated>
+        <updated>2022-10-28T15:44:45+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
