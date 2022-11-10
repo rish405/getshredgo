@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>GetShredGo</title>
     <link href="https://getshredgo.net/feed.xml" rel="self" />
     <link href="https://getshredgo.net" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://getshredgo.net/indian-diet-plan-for-breastfeeding-mothers/"/>
         <id>https://getshredgo.net/indian-diet-plan-for-breastfeeding-mothers/</id>
+        <media:content url="https://getshredgo.net/media/posts/25/hollie-santos-aUtvHsu8Uzk-unsplash.jpg" medium="image" />
 
         <updated>2022-10-20T20:16:54+05:30</updated>
             <summary>
@@ -26,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://getshredgo.net/media/posts/25/hollie-santos-aUtvHsu8Uzk-unsplash.jpg" alt="" />
+                    <p><img src="https://getshredgo.net/media/posts/25/hollie-santos-aUtvHsu8Uzk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Nutritional status of the mother has a direct influence on the quality and quantity of her breastmilk. A breastfeeding mother needs to consume an adequate and balanced diet. There is an extra demand for nutrients, especially to secrete adequate quantity/quality of milk and to safeguard your own health.</p>
 <p><img src="https://i.postimg.cc/Pf975Sts/andriyko-podilnyk-yhk-zsfgw0g-unsplash-1.jpg"></p>
 <h2><strong>Important Tips for an Indian diet plan for lactating mothers:</strong></h2>
@@ -157,6 +158,7 @@
         </author>
         <link href="https://getshredgo.net/how-to-lose-weight-during-pregnancy/"/>
         <id>https://getshredgo.net/how-to-lose-weight-during-pregnancy/</id>
+        <media:content url="https://getshredgo.net/media/posts/21/jonathan-borba-GpfRAzKjngw-unsplash.jpg" medium="image" />
 
         <updated>2022-10-20T20:17:52+05:30</updated>
             <summary>
@@ -167,7 +169,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://getshredgo.net/media/posts/21/jonathan-borba-GpfRAzKjngw-unsplash.jpg" alt="" />
+                    <p><img src="https://getshredgo.net/media/posts/21/jonathan-borba-GpfRAzKjngw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--center"><img  src="https://img.freepik.com/premium-vector/exercise-set-pregnant-woman-sport-during-pregnancy-idea-active-healthy-lifestyle-illustration-cartoon-style_277904-4356.jpg" alt="By Best Online Personal Trainer Nutritionist Dietician India" width="600"></figure>‍</p>
 <p>Your body starts to grow during your third trimester. Your belly grows along with it, as does your voice and your hair. But these changes don’t mean that you can’t still gain weight. In fact, you might actually start to lose it during the pregnancy. During this time of growth and development, your fat begins to melt away.</p>
 <p>This means that instead of packing on weight as you do during her second trimester, your belly will curve in a more natural way. And it will also mean that from here on out, you won’t be gaining any more skin or muscle-tone-changing pounds throughout the entire third trimester! </p>
@@ -191,6 +193,7 @@
         </author>
         <link href="https://getshredgo.net/how-to-lose-weight-while-working-from-home/"/>
         <id>https://getshredgo.net/how-to-lose-weight-while-working-from-home/</id>
+        <media:content url="https://getshredgo.net/media/posts/19/magnet-me-LDcC7aCWVlo-unsplash-1.jpg" medium="image" />
             <category term="Diet &amp; Exercise"/>
 
         <updated>2022-10-01T21:33:24+05:30</updated>
@@ -202,7 +205,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://getshredgo.net/media/posts/19/magnet-me-LDcC7aCWVlo-unsplash-1.jpg" alt="" />
+                    <p><img src="https://getshredgo.net/media/posts/19/magnet-me-LDcC7aCWVlo-unsplash-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Weight loss is a common issue faced by people. Many people want to lose weight but are afraid of going to the gym. They don't want to gain any extra stress while trying to slim down. However, there are plenty of ways to slim down without going to the gym. Using exercises at home is a great way to lose weight. It's also a lot more effective than dieting alone.</p>
 <p><br>One of the best ways to lose weight at home is with exercise. Exercises help you burn extra calories and build muscle. You'll feel stronger and more confident after completing a few short workouts. Plus, you'll feel healthier and have more energy as you lose weight. Taken together, these benefits make workouts extremely beneficial for weight loss.</p>
 <p><br>Most people find it easy to stick to a <a href="https://getshredgo.net/best-online-personal-trainer-for-weight-loss-india/">workout plan</a> when they go to the gym. They're surrounded by equipment they can use and other people who are also working out. None of that exists at home and people get bored from lack of stimulation easily. There's also little reason to work out once you get all of the necessary equipment at home. That includes cardio machines, weights, a kitchen, and a TV with cable or streaming services. All you need is a spot where you can stretch out on the floor and do your exercises.</p>
@@ -220,6 +223,7 @@
         </author>
         <link href="https://getshredgo.net/post-pregnancy-weight-loss-tips-diet-plan-and-foods-to-eat/"/>
         <id>https://getshredgo.net/post-pregnancy-weight-loss-tips-diet-plan-and-foods-to-eat/</id>
+        <media:content url="https://getshredgo.net/media/posts/18/juan-encalada-SCteCA0Mf1A-unsplash.jpg" medium="image" />
             <category term="Deit Plans"/>
 
         <updated>2022-10-01T04:36:54+05:30</updated>
@@ -231,7 +235,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://getshredgo.net/media/posts/18/juan-encalada-SCteCA0Mf1A-unsplash.jpg" alt="" />
+                    <p><img src="https://getshredgo.net/media/posts/18/juan-encalada-SCteCA0Mf1A-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Most new mothers struggle to shed off the pounds they gained during pregnancy; however, the struggle is even farther greater when the new mother attempts to lose pregnancy weight after having her baby, particularly if she is struggling to follow the suggestions of her prenatal trainer.</p>
 <p>The most significant deviation from your body composition prior to pregnancy is often weight gain. This article will assist you gain weight after pregnancy by shedding light on the important factors, which play a role in this form of weight gain and how to lose weight fast. Detailed information on post-pregnancy weight loss, the average time it will take you to achieve the flat belly you strive for post pregnancy, how to accelerate post pregnancy weight loss and options to follow for fast weight loss as well as ways to avoid fast weight loss will follow.</p>
 <figure class="post__image"><img  src="https://i.postimg.cc/qRQK53cD/filipp-romanovski-RZjd-I8s9be-U-unsplash.jpg" alt="Post Partum Weight Loss Diet Myths Busted Best Online Personal Trainer" width="702" height="469"></figure>
@@ -460,6 +464,7 @@
         </author>
         <link href="https://getshredgo.net/pcod-vs-pcos-and-how-to-manage-both/"/>
         <id>https://getshredgo.net/pcod-vs-pcos-and-how-to-manage-both/</id>
+        <media:content url="https://getshredgo.net/media/posts/12/engin-akyurt-qU5FbP_i8-I-unsplash.jpg" medium="image" />
             <category term="Disease Prevention"/>
 
         <updated>2022-09-30T04:59:01+05:30</updated>
@@ -471,7 +476,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://getshredgo.net/media/posts/12/engin-akyurt-qU5FbP_i8-I-unsplash.jpg" alt="" />
+                    <p><img src="https://getshredgo.net/media/posts/12/engin-akyurt-qU5FbP_i8-I-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Women of reproductive age from the adolescent stage onwards start with hormonal fluctuations. These fluctuations might lead to various endocrine and metabolic disorders. PCOD or PCOS commonly known are metabolic disorders concerned with the ovaries.</p>
 <p class="msg msg--highlight ">The ovary is a reproductive organ that changes its form, appearance, and shape according to its hormonal environment. But are PCOD and PCOS both the same? Let’s learn the differences between these two endocrine disorders.</p>
 <figure class="post__image"><img  src="https://i.postimg.cc/Pr6J4SKW/engin-akyurt-q-U5-Fb-P-i8-I-unsplash.jpg" alt="How to manage PCOS and PCOD with diet" width="702" height="468"></figure>
